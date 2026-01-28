@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="./assets/april_is_your_lie.jpg" width="100%" style="border-radius: 10px;" />
-</div>
-
-<br/>
-
 <table>
   <tr>
     <td width="30%" align="center">
@@ -70,12 +64,4 @@ console.log("Hello World! 🌍");
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
-</div>
-
----
-
-<div align="center">
-  <img src="./assets/hello_world.jpg" width="60%" style="border-radius: 10px;" />
-  <br/>
-  <h3> 🌏 "Hello World, Hello Future!" </h3>
 </div>
