@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td width="30%" align="center">
+    <td width="40%" align="center">
       <img src="./assets/logo.png" width="90%" />
       <br/>
       <b>"Thank you for coming to see me ✨"</b>
