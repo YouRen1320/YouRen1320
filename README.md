@@ -5,7 +5,7 @@
       <br/>
       <b>"Thank you for coming to see me ✨"</b>
     </td>
-    <td width="70%">
+    <td width="60%">
        <div align="center">
          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&lines=Hello,+I'm+YouRen!;Just+a+Frontend+Developer.;Otaku+forever!&center=true&width=400&height=50&color=38bdf8" alt="Typing SVG" />
        </div>
