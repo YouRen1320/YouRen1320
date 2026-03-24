@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="30%" align="center">
-      <img src="./assets/nao.png" width="90%" />
+      <img src="./assets/logo.png" width="90%" />
       <br/>
       <b>"Thank you for coming to see me ✨"</b>
     </td>
@@ -11,21 +11,17 @@
        </div>
 <pre>
 const YouRen = {
-    name: "友人",
-    location: "🇨🇳 NanJing, China",
-    role: "Frontend Developer",
-    currentFocus: "Vue3 & Flutter & HarmonyOS",
-    dream: "Full Stack Developer",
+    name: "YouRen",
+    location: "base NanJing, China",
+    role: "Full-stack Engineer",
+    currentFocus: "Vue3 & Flutter & Nest.Js",
     hobbies: ["🎌 Anime", "🎮 Gaming", "😴 Sleeping", "🔍 Exploring"],
     motto: "Those who believe in miracles
             are as remarkable as miracles themselves! ✨",
-    bilibili: "https://space.bilibili.com/43729664",
-    github: "https://github.com/YouRen-Li",
-    email: "lijunpg@foxmail.com",
-    status: "🤒 Study"
+    email: "lijunpg@foxmail.com"
 };
 
-console.log("Hello World! 🌍");
+console.log("你好，世界! 🌍");
 </pre>
     </td>
   </tr>
@@ -44,7 +40,6 @@ console.log("Hello World! 🌍");
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![UniApp](https://img.shields.io/badge/UniApp-2B2B2B?style=for-the-badge&logo=dcloud&logoColor=white)
 
 ### 📱 Mobile (移动开发)
 
@@ -62,6 +57,5 @@ console.log("Hello World! 🌍");
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
 </div>
