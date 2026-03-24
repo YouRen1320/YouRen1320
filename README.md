@@ -1,11 +1,11 @@
 <table>
   <tr>
-    <td width="50%" align="center">
+    <td width="40%" align="center">
       <img src="./assets/logo.png" width="90%" />
       <br/>
       <b>"Thank you for coming to see me ✨"</b>
     </td>
-    <td width="50%">
+    <td width="40%">
        <div align="center">
          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&lines=Hello,+I'm+YouRen!;Just+a+Frontend+Developer.;Otaku+forever!&center=true&width=400&height=50&color=38bdf8" alt="Typing SVG" />
        </div>
