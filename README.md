@@ -16,8 +16,6 @@ const YouRen = {
     role: "Full-stack Engineer",
     currentFocus: "Vue3 & Flutter & Nest.Js",
     hobbies: ["🎌 Anime", "🎮 Gaming", "😴 Sleeping", "🔍 Exploring"],
-    motto: "Those who believe in miracles
-            are as remarkable as miracles themselves! ✨",
     email: "lijunpg@foxmail.com"
 };
 
